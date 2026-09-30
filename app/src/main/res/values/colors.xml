@@ -1,0 +1,10 @@
+<resources>
+    <color name="bg">#0B0D10</color>
+    <color name="card">#151922</color>
+    <color name="card2">#1C2230</color>
+    <color name="text">#F2F4F8</color>
+    <color name="muted">#9AA4B2</color>
+    <color name="accent">#D97757</color>
+    <color name="green">#55C27A</color>
+    <color name="red">#E06B6B</color>
+</resources>
