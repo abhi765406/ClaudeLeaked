@@ -1,7 +1,7 @@
 <ScrollView xmlns:android="http://schemas.android.com/apk/res/android" android:layout_width="match_parent" android:layout_height="match_parent" android:background="@color/bg" android:fillViewport="true">
 <LinearLayout android:layout_width="match_parent" android:layout_height="wrap_content" android:orientation="vertical" android:padding="18dp">
 <TextView android:layout_width="wrap_content" android:layout_height="wrap_content" android:text="Claude Code Mobile" android:textColor="@color/text" android:textSize="26sp" android:textStyle="bold"/>
-<TextView android:id="@+id/subtitle" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginTop="4dp" android:text="Local profile & API manager" android:textColor="@color/muted" android:textSize="14sp"/>
+<TextView android:id="@+id/subtitle" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginTop="4dp" android:text="Local profile and API manager" android:textColor="@color/muted" android:textSize="14sp"/>
 <LinearLayout android:layout_width="match_parent" android:layout_height="wrap_content" android:layout_marginTop="18dp" android:background="@drawable/bg_card" android:orientation="vertical" android:padding="16dp">
 <TextView android:layout_width="wrap_content" android:layout_height="wrap_content" android:text="ACTIVE PROFILE" android:textColor="@color/muted" android:textSize="11sp" android:textStyle="bold"/>
 <TextView android:id="@+id/activeName" android:layout_width="match_parent" android:layout_height="wrap_content" android:layout_marginTop="6dp" android:text="No profile selected" android:textColor="@color/text" android:textSize="20sp" android:textStyle="bold"/>
